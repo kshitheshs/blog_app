@@ -1,0 +1,80 @@
+  794  ls
+  795  cd blog_app
+  796  ls
+  797  source venv/bin/activate
+  798  pip list
+  799  history > commands.txt
+  800  source venv/bin/activate
+  801  python manage.py runserver
+  802  history >> commands.txt
+  803  python manage.py createsuperuser
+  804  cd django_project
+  805  ls
+  806  python manage.py createsuperuser
+  807  python manage.py makemigrations
+  808  python manage.py migrate
+  809  python manage.py createsuperuser
+  795  cd blog_app
+  796  ls
+  797  source venv/bin/activate
+  798  pip list
+  799  history > commands.txt
+  800  source venv/bin/activate
+  801  python manage.py runserver
+  802  history >> commands.txt
+  803  python manage.py createsuperuser
+  804  cd django_project
+  805  ls
+  806  python manage.py createsuperuser
+  807  python manage.py makemigrations
+  808  python manage.py migrate
+  809  python manage.py createsuperuser
+  810  history >> commands.txt
+  802  history >> commands.txt
+  803  python manage.py createsuperuser
+  804  cd django_project
+  805  ls
+  806  python manage.py createsuperuser
+  807  python manage.py makemigrations
+  808  python manage.py migrate
+  809  python manage.py createsuperuser
+  810  history >> commands.txt
+  811  history >> commands.txt
+  812  python manage.py runserver
+  813  python manage.py runserver
+  814  python manage.py runserver
+  815  python manage.py runserver
+  816  python manage.py runserver
+  817  clear
+  806  python manage.py createsuperuser
+  807  python manage.py makemigrations
+  808  python manage.py migrate
+  809  python manage.py createsuperuser
+  810  history >> commands.txt
+  811  history >> commands.txt
+  812  python manage.py runserver
+  813  python manage.py runserver
+  814  python manage.py runserver
+  815  python manage.py runserver
+  816  python manage.py runserver
+  817  clear
+  818  history >> commands.txt
+  819  python manage.py makemigrations
+  820  python manage.py sqlmigrate blog 0001
+  821  python manage.py migrate
+  826  python manage.py runserver
+  827  python manage.py startapp users
+  828  ls
+  829  python manage.py runserver
+  830  python manage.py runserver
+  831  python manage.py runserver
+  832  pip install django-crispy-forms
+  833  python manage.py runserver
+  834  python manage.py runserver
+  835  pip install Pillow
+  836  python manage.py makemigrations
+  837  python manage.py runserver
+  838  python manage.py makemigrations
+  839  python manage.py migrate
+  840  python manage.py runserver
+  841  python manage.py shell
